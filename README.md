@@ -5,7 +5,7 @@
 
 ## 1. 수행과정
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1b047071-e64d-48a0-adb1-7aaafab84824" alt="image">
+  <img src="https://github.com/user-attachments/assets/df0f2e5d-df83-43a2-b94e-633994217b28" alt="image" style="width:70%; height:auto;">
 </p>
 
 ## 2. 대시보드 구성
